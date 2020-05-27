@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="reveal">REVEAL</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="c346">C346 Android Programming</string>
+    <string name="c349">C349 iPad Programming</string>
+</resources>
